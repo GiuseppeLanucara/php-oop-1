@@ -1,6 +1,6 @@
 <?php
 
-require_once __DIR__ . "/user.php";
+require_once __DIR__ . "/movie.php";
 
 $donnie_darko = new Movie("Donnie Darko", "Psicologico");
 $donnie_darko->titolo = "Donnie Darko";
