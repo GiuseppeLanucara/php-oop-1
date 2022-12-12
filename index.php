@@ -12,7 +12,7 @@ var_dump($donnie_darko->getCult());
 echo $donnie_darko->printMovieInfo();
 
 
-$interstellar = new Movie();
+$interstellar = new Movie("Interstellar", "Drammatico");
 $interstellar->titolo = "Interstellar";
 $interstellar->genere = "Romantico";
 $interstellar->eta_film = 10;
